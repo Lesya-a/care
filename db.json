@@ -1,0 +1,112 @@
+{
+  "care": [
+    {
+      "id": 1,
+      "image": "https://drive.google.com/file/d/1Y7u33JtnmaF_4gR3DL99zidoY3AER6T8/view?usp=sharing",
+      "name": "hand_wash",
+      "description": "Ручная стирка"
+    },
+    {
+        "id": 2,
+        "image": "https://drive.google.com/file/d/1jziO8XVdndIDnKnmFPrC7yg26r4Q90TG/view?usp=sharing",
+        "name": "wash1",
+        "description": "Максимальная теипература 30º"
+    },
+    {
+        "id": 3,
+        "image": "https://drive.google.com/file/d/1ozpRsW4pV1QqgvDPE0osk-8ptzuBngAE/view?usp=sharing",
+        "name": "wash2",
+        "description": "Максимальная теипература 40º"
+    },
+    {
+        "id": 4,
+        "image": "https://drive.google.com/file/d/1Sc6XpQWQQdddqCw0KKwmcfWieRMDtO5y/view?usp=sharing",
+        "name": "no_wash",
+        "description": "Стирка запрещена"
+    },
+    {
+        "id": 5,
+        "image": "https://drive.google.com/file/d/1jSY-dnHH8-XkKWuI9uA-n1uESweJd110/view?usp=sharing",
+        "name": "no_wring",
+        "description": "Отжим запрещен"
+    },
+    {
+        "id": 6,
+        "image": "https://drive.google.com/file/d/1iilqz9cXnch11b5_vk1DovpbZ1JkN44E/view?usp=sharing",
+        "name": "ironing1",
+        "description": "Максимальная теипература 110º"
+    },
+    {
+        "id": 7,
+        "image": "https://drive.google.com/file/d/1Zxeq9Leiu6GShwMG000M-YvfBX8SWjrP/view?usp=sharing",
+        "name": "ironing2",
+        "description": "Максимальная теипература 150º"
+    },
+    {
+        "id": 8,
+        "image": "https://drive.google.com/file/d/1oSlVnUzZDNajy7bi7awP6OUzqfhKiFiH/view?usp=sharing",
+        "name": "ironing3",
+        "description": "Максимальная теипература 200º"
+    },
+    {
+        "id": 9,
+        "image": "https://drive.google.com/file/d/1zn-vvrtkwLVmUcw0ovSKr-oRAZc1ehfe/view?usp=sharing",
+        "name": "no_ironing",
+        "description": "Глаженье запрещено"
+    },
+    {
+      "id": 10,
+      "image": "https://drive.google.com/file/d/1Y7u33JtnmaF_4gR3DL99zidoY3AER6T8/view?usp=sharing",
+      "name": "dry",
+      "description": "Возможна барабанная сушка"
+    },
+    {
+        "id": 11,
+        "image": "https://drive.google.com/file/d/1i2pyhBLURpuGIuBIj53vwwFg6PVK8eE_/view?usp=sharing",
+        "name": "dry1",
+        "description": "Возможна барабанная сушка при низкой температуре"
+    },
+    {
+        "id": 12,
+        "image": "https://drive.google.com/file/d/1YvTNJQcpI2Vn-2J9ahbIEO6WIFI9s4QN/view?usp=sharing",
+        "name": "dry2",
+        "description": "Возможна барабанная сушка при средней температуре"
+    },
+    {
+        "id": 13,
+        "image": "https://drive.google.com/file/d/1hxZKca009kh9y6brcQ3YjmCb89FODRQt/view?usp=sharing",
+        "name": "dry3",
+        "description": "Возможна барабанная сушка при высокой температуре"
+    },
+    {
+        "id": 14,
+        "image": "https://drive.google.com/file/d/1fSs1V8WAIhypq_9HT3HpUqK98w7PqCB4/view?usp=sharing",
+        "name": "no_dry",
+        "description": "Сушка в барабане запрещена"
+    },
+    {
+      "id": 15,
+      "image": "https://drive.google.com/file/d/1S9eWu1TbyqxvO9G3YugU2gmYcK3Uw_k_/view?usp=sharing",
+      "name": "drip",
+      "description": "Вертикально без отжима"
+    },
+    {
+        "id": 16,
+        "image": "https://drive.google.com/file/d/1prn5m7GVlIqTSo_sFC6_GkQMN6ryg6z5/view?usp=sharing",
+        "name": "bleach",
+        "description": "Разрешено любыми веществами"
+    },
+    {
+        "id": 17,
+        "image": "https://drive.google.com/file/d/1O33vnfvat4uFqlt6KR5E3e3F_F5DBhac/view?usp=sharing",
+        "name": "bleach1",
+        "description": "Разрешено только нехлорными веществами"
+    },
+    {
+        "id": 18,
+        "image": "https://drive.google.com/file/d/1pGW9Q0efq8bWmqnV_a-lzUGg5_R1ySuw/view?usp=sharing",
+        "name": "no_bleach",
+        "description": "Отбеливание запрещено"
+    }
+  ]
+}
