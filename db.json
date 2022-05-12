@@ -44,7 +44,7 @@
     },
     {
         "id": 8,
-        "image": "https://cdn-icons-png.flaticon.com/512/788/788524.png2",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788524.png",
         "name": "ironing3",
         "description": "Максимальная теипература 200º"
     },
@@ -98,7 +98,7 @@
     },
     {
         "id": 17,
-        "image": "https://cdn-icons-png.flaticon.com/512/3685/3685444.png",
+        "image": "https://cdn-icons.flaticon.com/png/512/3685/premium/3685444.png?token=exp=1652352983~hmac=1584091e3afffd0d061ee9305cc26128",
         "name": "bleach1",
         "description": "Разрешено отбеливание только нехлорными веществами"
     },
