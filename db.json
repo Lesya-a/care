@@ -2,61 +2,61 @@
   "care": [
     {
       "id": 1,
-      "image": "https://lh5.googleusercontent.com/a6BkxEW2A10Bzujo…4r6LW9Fb_yI5cjJ5fLOspb243yJbBFzwzlBkN=w2560-h1442",
+      "image": "https://cdn-icons-png.flaticon.com/512/788/788523.png",
       "name": "hand_wash",
       "description": "Ручная стирка"
     },
     {
         "id": 2,
-        "image": "https://lh5.googleusercontent.com/KYi1gJo9yF2fv7lP…bOtyqZopqhudtXdrc-5TCemxKEwcmSoGhxK4a=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788529.png",
         "name": "wash1",
         "description": "Максимальная теипература 30º"
     },
     {
         "id": 3,
-        "image": "https://lh6.googleusercontent.com/x1svqISDyTAXb7To…_q5nQlg07gMEv_Jd71gg-uyr9PFVO7AvCeDQJ=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788533.png",
         "name": "wash2",
         "description": "Максимальная теипература 40º"
     },
     {
         "id": 4,
-        "image": "https://lh3.googleusercontent.com/8ui-lOcQY76B77Uh…YJptBVAMeYh_zpMaJb4PWktGtXJPrcOHDhqeM=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788521.png",
         "name": "no_wash",
         "description": "Стирка запрещена"
     },
     {
         "id": 5,
-        "image": "https://lh3.googleusercontent.com/gnCDN0cRSbSYr64F…Oq1tPn9zQyskvUys2bvsO-mh43uODkc45tf4s=w1450-h1442",
+        "image": "https://cdn-icons.flaticon.com/png/512/693/premium/693177.png?token=exp=1652352636~hmac=4e3831b97b1f09a76dc930a9a946ab6c",
         "name": "no_wring",
         "description": "Отжим запрещен"
     },
     {
         "id": 6,
-        "image": "https://lh4.googleusercontent.com/SYw09K2fQSAP0464…gUYb9pBysbBd75PHTap6Q5D4KU2sHyD5EGMBM=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788528.png",
         "name": "ironing1",
         "description": "Максимальная теипература 110º"
     },
     {
         "id": 7,
-        "image": "https://lh5.googleusercontent.com/kx3nCJ2qiqwiAYaO…R4wqTOOL4tu4semRuk7jhY2d--jUisNTI7Z5M=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788532.png",
         "name": "ironing2",
         "description": "Максимальная теипература 150º"
     },
     {
         "id": 8,
-        "image": "https://lh3.googleusercontent.com/36ylYaTbfXyoDe_s…m58hpP4eMI2pRsG6_UlBKTkbZrO4xGoRdDe9P=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788524.png2",
         "name": "ironing3",
         "description": "Максимальная теипература 200º"
     },
     {
         "id": 9,
-        "image": "https://lh3.googleusercontent.com/s0FLXlK0todXZci8…x-ZF9ceQAC90A64i95zrkrN4z5mB6gn05k96E=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788535.png",
         "name": "no_ironing",
         "description": "Глаженье запрещено"
     },
     {
       "id": 10,
-      "image": "https://lh5.googleusercontent.com/-M9WSc07wqiROTJ8…LXr3tr7F-E0ZaHUA1seIBAA7ucpW9Vt-03hKz=w1450-h1442",
+      "image": "https://cdn-icons-png.flaticon.com/512/788/788536.png",
       "name": "dry",
       "description": "Возможна барабанная сушка"
     },
@@ -68,43 +68,43 @@
     },
     {
         "id": 12,
-        "image": "https://lh4.googleusercontent.com/F-DXLnZSSVaq2vVd…ZH2qTXTMVm2IcarZ459db8mW970ACMfT6CeEk=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788534.png",
         "name": "dry2",
         "description": "Возможна барабанная сушка при средней температуре"
     },
     {
         "id": 13,
-        "image": "https://lh3.googleusercontent.com/sY7AHJWEF2RhOCC8…OTLiaBmA7A4nf7C5iy-c--k4u-4unVjleypl5=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788526.png",
         "name": "dry3",
         "description": "Возможна барабанная сушка при высокой температуре"
     },
     {
         "id": 14,
-        "image": "https://lh5.googleusercontent.com/Rxk8mHTun-vbYuWW…QHpsPJTnp5-GiWhngSVkmNxqFRWCT5qBmZOCa=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788520.png",
         "name": "no_dry",
         "description": "Сушка в барабане запрещена"
     },
     {
       "id": 15,
-      "image": "https://lh6.googleusercontent.com/kDI6HO3xq8TlyGSg…_GjvpUcDLW-kEIr0Nv39cgkhJ4NFrfyuoADsE=w1450-h1442",
+      "image": "https://cdn-icons.flaticon.com/png/512/693/premium/693178.png?token=exp=1652352645~hmac=6f7fb0e4244d3fd6a155700bbf031ae5",
       "name": "drip",
-      "description": "Вертикально без отжима"
+      "description": "Сушить вертикально без отжима"
     },
     {
         "id": 16,
-        "image": "https://lh4.googleusercontent.com/ualGRMT0hyuCRZQS…aU_yqzgXW54slIf5gnWuf6wBPd9gRqT9gFBFz=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788517.png",
         "name": "bleach",
-        "description": "Разрешено любыми веществами"
+        "description": "Разрешено отбеливание любыми веществами"
     },
     {
         "id": 17,
-        "image": "https://previews.dropbox.com/p/thumb/ABg4oaFZCa5DM4-uLLlEnpFWXocAkDyG8U4zSfH7jGim0eah4d4fKXdW23AgBlx62aUNc92dfKD53cFUUgwcuOqZYE0S7tNw-BONJ3F5iDuUXaikzLoMfI40ixSLKvC1mxrEyqAcK7qFXAbZVK80_5ZnPfxXdJ75w7TVdTc-P6fg-KXzty0aMfcYcCreDmBIMQlNgA2HXcmqZas5p25C-Io0iX47a8WdAa0cqJOziF6k03zQEk6Yyo9zlq5nCJUzcbBFmqZIFxXU_2V4nwRF7K6OWcAoax0xPXkcYxZM9Z3JyUgDrAQaN7IHMYGPjSW9ELttD6ROobmSY9t9TOtkYnRU6f6s1iiTSvlPmQ8XYYxcXqxAYaQ0x5OY76krQtpgpZQ/p.png",
+        "image": "https://cdn-icons-png.flaticon.com/512/3685/3685444.png",
         "name": "bleach1",
-        "description": "Разрешено только нехлорными веществами"
+        "description": "Разрешено отбеливание только нехлорными веществами"
     },
     {
         "id": 18,
-        "image": "https://lh5.googleusercontent.com/2t93kkAVRr04eQFZ…omwc7Sbez0pr0T2bBs0trKbs4N6aPy1puuWSG=w1450-h1442",
+        "image": "https://cdn-icons-png.flaticon.com/512/788/788518.png",
         "name": "no_bleach",
         "description": "Отбеливание запрещено"
     }
